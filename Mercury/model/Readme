@@ -1,0 +1,13 @@
+DIAGONAL ELEMENTS OF THE COVARIANCE MATRICES
+diagonal elements of the covariance matrices are in: cov_diag_model*.txt
+columns are: coefficent number, cov x gauss coefficient, diagonal element
+
+COVARIANCE MATRIX
+covariance matrices are in: cov_model*.txt
+
+Gauss coefficinets of the individual models are in:
+model_*.cof
+For further information and/or questions please contact:
+ingo@unistra.fr
+--
+iw08062021sbg
